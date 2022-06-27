@@ -1,4 +1,6 @@
 **POLICE DEATHS IN AMERICA**
+
+
 This project contains SQL queries written to query Police death in America for key insights to help detect region 
 with the highest crime rate and the ranks affected the most. This dataset contains information on fatal police deaths 
 in the United States. The data includes the victim's rank, name, department, date of death, and cause of death. 
